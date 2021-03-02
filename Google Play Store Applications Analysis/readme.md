@@ -1,3 +1,4 @@
+Problem Statement: You are the Data Analyst of your company and your company is planning to build an Mobile Application. As a Analyst they want you to figure out the categories of apps users like to use. They want you to use Users Rating as a feature to be analysed. Prepare a Tableau Dashboard and a Tableau Story for the same.
 Original Data Source: https://www.kaggle.com/lava18/google-play-store-apps
 Steps Performed:
 1. First the Original CSV file from the above given Kaggle link was downloaded.
