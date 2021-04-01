@@ -1,3 +1,4 @@
+This work gives Emphasis on Creating a Tableau Workbook which aims at analyzing and extracting insights on the sales data of walmart.
 Dataset Source: Kaggle (https://www.kaggle.com/vik2012kvs/walmart-dataretail-analysis)
 
 Dataset Description:
